@@ -1,0 +1,27 @@
+{
+  "todos":[
+    {
+      "title" : "Tarea 1",
+      "responsible" : "Juan",
+      "description" : "Compiladores",
+      "priority": "low"
+    },
+    {
+      "title" : "Tarea 2",
+      "responsible" : "Christian",
+      "description" : "Estructura de Datos",
+      "priority": "medium"
+    },{
+      "title" : "Tarea 3",
+      "responsible" : "David",
+      "description" : "Base de Datos",
+      "priority": "high"
+    },
+    {
+      "title" : "Tarea 4",
+      "responsible" : "Patricio",
+      "description" : "Proyectos 2",
+      "priority": "low"
+    }
+  ]
+}
